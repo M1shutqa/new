@@ -1,17 +1,17 @@
 // Активировать документы (true - включены, false - отключены)
-var isRightsEnabled = true; // Права
-var isCovidCertificateEnabled = true; // COVID-сертификат
+var isRightsEnabled = false; // Права
+var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "01.01.2001"; // Дата рождения
-var fullname = "Фамилия Имя Отчество" // ФИО
-var name = "Имя" // Имя
+var birthdate = "03.05.2005"; // Дата рождения
+var fullname = "М'якота Михайло Олександрович" // ФИО
+var name = "Михайло" // Имя
 
 // Паспорт
-var passport_id = "123456789" // Номер паспорта
+var passport_id = "005334521" // Номер паспорта
 
 // КПП
-var kpp_id = "0123456789" // ИНН
+var kpp_id = "3899210891" // ИНН
 
 // Права
 var rights_valid_until = "01.01.2022" // Права "Дійсні до"
