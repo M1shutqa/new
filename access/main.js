@@ -3,21 +3,21 @@ scrollLock.disablePageScroll();
 var date = new Date();
 var month = date.getMonth();
 var arr = [
-   'лютого',
-   'березня',
-   'квітня',
-   'травня',
-   'червня',
-   'липня',
-   'серпня',
-   'вересня',
-   'жовтня',
-	 'листопада',
-	 'грудня',
-	 'січня',
+   '02',
+   '03',
+   '04',
+   '05',
+   '06',
+   '07',
+   '08',
+   '09',
+   '10',
+	 '11',
+	 '12',
+	 '01',
 ];
 
-$('.rf_title').text('Данi оновлено ' + date.getDate() + ' ' + arr[month-1] + ' ' + date.getFullYear() +' о ' + (date.getHours() < 10 ? '0' + date.getHours() : date.getHours()) + ':' + '' + (date.getMinutes() < 10 ? '0' + date.getMinutes() : date.getMinutes()));
+$('.rf_title').text('Данi оновлено ' + date.getDate() + '.' + arr[month-1] + '.' + date.getFullYear() +' о ' + (date.getHours() < 10 ? '0' + date.getHours() : date.getHours()) + ':' + '' + (date.getMinutes() < 10 ? '0' + date.getMinutes() : date.getMinutes()));
 
 $('html').css('background', 'linear-gradient(90deg, #aabce8, #cfc6e5, #e2c6e6)');
 
