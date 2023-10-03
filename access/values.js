@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "22.09.2005"; // Дата рождения
+var birthdate = "03.10.2005"; // Дата рождения
 var fullname = "М'якота Михайло Олександрович" // ФИО
 var name = "Михайло" // Имя
 
