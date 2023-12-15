@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "03.10.2005"; // Дата рождения
-var fullname = "М'якота Михайло Олександрович" // ФИО
+var fullname = "Красьоха Михайло Олександрович" // ФИО
 var name = "Михайло" // Имя
 
 // Паспорт
