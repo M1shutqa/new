@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "03.10.2005"; // Дата рождения
-var fullname = "Красьоха Михайло Олександрович" // ФИО
+var fullname = "Кондзеровський Михайло Валерійович" // ФИО
 var name = "Михайло" // Имя
 
 // Паспорт
